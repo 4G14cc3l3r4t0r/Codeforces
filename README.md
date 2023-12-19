@@ -2,18 +2,11 @@
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Problem Name</th>
+    <th>Tags</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>A. Way Too Long Words</td>
+    <td>input/output,Loops, String(length of string, indexing)</td>
   </tr>
 </table>
